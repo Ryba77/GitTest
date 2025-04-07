@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    cout << "Ahoj";
-    cout  << "Funguje mi git";
+    cout << "Uprava me hry tedka uz vypisuji text";
+    cout << "a uz to funguje";
+    cout << "Mam to v gitu sdawadsdawdsfaw";
 
 }
