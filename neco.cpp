@@ -7,5 +7,6 @@ int main(){
     cout << "a uz to funguje";
     cout << "Mam to v gitu sdawadsdawdsfaw";
     cin >> x;
+    cout << "dalsi";
 
 }
