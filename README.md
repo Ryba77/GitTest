@@ -1,2 +1,2 @@
 # GitTest
-Test git repository
+Ve sve hre pouzivam cout na vypisovani textu;
